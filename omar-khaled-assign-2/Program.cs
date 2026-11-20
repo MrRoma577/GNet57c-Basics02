@@ -1,8 +1,8 @@
 ﻿using System.Text;
 
 
-namespace GNet57_C_Basic02
-{
+namespace omar_khaled_assign_2 { 
+
     internal class Program
     {
         static void Main(string[] args)
